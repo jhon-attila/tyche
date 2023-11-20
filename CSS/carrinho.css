@@ -1,0 +1,13 @@
+.carrinho{
+    display: table-column
+}
+.imgcar{
+    width: 500px;
+    margin-left: 35%;
+}
+a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+
+}
